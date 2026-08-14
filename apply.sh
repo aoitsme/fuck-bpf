@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 MB=$1
 
 USE_PATCH=0
